@@ -32,24 +32,34 @@ Below is a snapshot of the Power Query *Applied Steps* panel:
 Below are key visuals from the Power BI dashboard created for the Red Cross Volunteer Data Project:
 
 ### 1. Sociodemographic Distribution of Volunteers
-Shows the gender and age composition of volunteers across all regions.  
+Shows the gender, age, education and occupation composition of volunteers across all regions.  
+
 ![Sociodemographic Distribution](screenshots/sociodemographic_distribution.png)
+
 
 ### 2. Distribution by Seniority and Volunteering Area
 Highlights how volunteer experience levels vary across different areas of service.  
+
 ![Seniority and Area Distribution](screenshots/seniority_and_area_distribution.png)
 
+
 ### 3. Admission Date Trends
-Displays the yearly trend of new volunteer admissions.  
+Displays the yearly, quarterly and monthly trend of new volunteer admissions.  
+
 ![Admission Date Trends](screenshots/admission_date_trends.png)
+
 
 ### 4. Average Years of Service by Volunteering Area
 Shows which volunteering areas retain volunteers the longest.  
+
 ![Average Years of Service by Area](screenshots/avg_years_of_service_by_area.png)
+
 
 ### 5. Geographical Distribution of Volunteers
 Maps volunteer distribution across major Portuguese districts.  
+
 ![Geographical Distribution](screenshots/geographical_distribution.png)
+
 
 ---
 
