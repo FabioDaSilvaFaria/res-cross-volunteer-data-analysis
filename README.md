@@ -79,3 +79,17 @@ Maps volunteer distribution across major Portuguese districts.
 ---
 
 ## 📁 Project Structure
+volunteer-data-dashboard/
+│
+├── 📂 screenshots/
+│ ├── sociodemographic_distribution.png
+│ ├── distribution_by_seniority_and_area.png
+│ ├── admission_date.png
+│ ├── avg_years_service_by_area.png
+│ ├── geographical_distribution.png
+│ └── applied_steps_overview.png
+│
+├── 📂 presentation_summary/
+│ └── Volunteer_Data_Project_Presentation.pdf
+│
+├── README.md
