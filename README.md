@@ -72,8 +72,8 @@ Maps volunteer distribution across major Portuguese districts.
 ---
 
 ## 💡 Key Insights
-- Balanced gender distribution, but some age groups are underrepresented  
-- Volunteers in *social/general* areas show the most longevity  
+- The gender distribution leans more towards females while some age groups show an even bigger split towards females  
+- Volunteers in *Emergency* area show the most longevity  
 - Certain districts (like Braga) outperform expectations relative to population size  
 
 ---
